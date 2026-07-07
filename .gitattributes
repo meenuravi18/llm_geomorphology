@@ -1,0 +1,2 @@
+Datasets/allCountries.txt filter=lfs diff=lfs merge=lfs -text
+Datasets/Global_Named_Landforms_With_Labels.csv filter=lfs diff=lfs merge=lfs -text
