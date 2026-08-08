@@ -1,0 +1,12 @@
+metric,value
+GP–GP cosine,0.027439045166999715
+GP–fixed cosine,0.17436020403852853
+start–end cosine,0.3323739213285314
+uncertainty–linear gain Spearman ρ,0.5337827088037007
+uncertainty–MLP gain Spearman ρ,0.67777665853281
+uncertainty–linear damage Spearman ρ,0.35619499190214515
+uncertainty–MLP damage Spearman ρ,0.4544599001693357
+mean linear target gain,0.16319598629583443
+mean MLP target gain,0.1300550572654661
+linear fraction increased,0.2533013205282113
+MLP fraction increased,0.7046818727490997
